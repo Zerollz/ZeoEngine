@@ -1,0 +1,6 @@
+[submodule "Zeo/vendor/spdlog"]
+	path = Zeo/vendor/spdlog
+	url = https://github.com/gabime/spdlog
+[submodule "Zeo/vendor/GLFW"]
+	path = Zeo/vendor/GLFW
+	url = https://github.com/TheCherno/glfw
